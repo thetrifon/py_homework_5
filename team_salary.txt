@@ -1,0 +1,5 @@
+Petrov 20000
+Iwanow 30000
+Wodkin 22000
+Seregin 14000
+Mashukov 13000
